@@ -1,4 +1,4 @@
-Vocab = {
+Vocab = {                   # words for application that will show as a notification
    'Accleration' : 'त्वरण',
    'Accomplish' : 'पूरा करना',
    'Accustomed' : 'आदी',
@@ -10,12 +10,10 @@ Vocab = {
    'conflicts' : 'संघर्ष',
    'Appropriate' : 'उचित',
    'Athlete' : 'धावक',
-   'Beans' : 'फलिया',
    'Beneficence' : 'परोपकार',
    'Bulk' : 'थोक',
    'Charity': 'दान/रहम',
    'compassion' : 'करुणा',
 }
 dic = list(Vocab)
-dic1 = list(Vocab.items())
-
+dic1 = list(Vocab.items())         # these are two variable which we will use in our code 
